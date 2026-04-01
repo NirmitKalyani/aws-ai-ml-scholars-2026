@@ -161,7 +161,7 @@ Machine Learning (ML), Deep Learning (DL), and Generative AI are subsets of AI t
   - **Model monitoring**
   - **Scalability (real-time inference)**  
 
-👉 AI is not just models — it’s **production systems**
+- AI is not just models — it’s **production systems**
 
 ---
 
